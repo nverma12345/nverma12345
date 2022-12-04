@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://hritikkumbhar.in">
+<a href="http://nishantsverma.ml">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+To+Meet+You+!;Hello+%2C+There+%F0%9F%91%8B;I+am+Nishant+...!&center=true&size=30">
   </a>
 </h1>
@@ -37,18 +37,17 @@ src="https://img.shields.io/github/followers/nverma12345?logo=github&style=for-t
 
 <p align="left"> <a href="https://discord.com/invite/KqQv6evn4R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/nverma12345" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/attitude.unique_king" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nishantverma123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://paradox-vip.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Nishant88026018" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/techknowledgehub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+<a href="https://paradox-vip.com" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-![Nishant GitHub stats](https://github-readme-stats.vercel.app/api?username=nverma12345&show_icons=true&theme=radical)
+![nverma12345 GitHub stats](https://github-readme-stats.vercel.app/api?username=nverma12345&show_icons=true&theme=radical)
 
 <a href="http://www.github.com/nverma12345"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nverma12345&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/nverma12345"><img src="https://activity-graph.herokuapp.com/graph?username=nverma12345&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/nverma12345" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nverma12345&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 
 #### Profile views counter
