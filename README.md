@@ -49,6 +49,11 @@ src="https://img.shields.io/github/followers/nverma12345?logo=github&style=for-t
 
 <a href="https://github.com/nverma12345" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nverma12345&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nverma12345&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{nverma12345}/count.svg)
