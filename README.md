@@ -11,7 +11,7 @@
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [Nishant.me](https://nverma12345.github.io/nishantverma.github.io/)
 * ✉️  You can contact me at [techknowledge012@gmail.com](mailto:techknowledge012@gmail.com)
-* 🚀  I'm currently working on [ DEADEYE ](https://deadeyecheats.store/)
+* 🚀  I'm currently working on [ NCR ](http://ncr.com)
 * 🧠  I'm learning DDI
 
 <a href="https://www.twitter.com/Nishant88026018" target="_blank" rel="noreferrer"><img
